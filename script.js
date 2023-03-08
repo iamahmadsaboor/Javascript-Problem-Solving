@@ -1,4 +1,4 @@
-//Problem 1 Declare two variables: admin and name. Assign the value "Umair Azmat" to name. Copy the value from name to admin. Show the value of admin using alert (must output Name).
+//Problem --1 Declare two variables: admin and name. Assign the value "Umair Azmat" to name. Copy the value from name to admin. Show the value of admin using alert (must output Name).
 
 let admin, name = "Umair Azmat";
 admin = name;
