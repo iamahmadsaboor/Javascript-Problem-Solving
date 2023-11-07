@@ -1,10 +1,3 @@
-Dear Students
-
-Web and Mobile Application Development Batch # 06 Course
-
-Assignment-12
-
-Requirements:
 
 String Handling
 

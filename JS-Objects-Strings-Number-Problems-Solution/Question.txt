@@ -1,0 +1,96 @@
+
+Strings:
+
+1-Write a js program to find the length of a string.
+2-Write a js program to concatenate two strings.
+3-Write a js program to convert a string to uppercase.
+4-Write a js program to convert a string to lowercase.
+5-Write a js program to check if a string contains a specific substring.
+6-Write a js program to find the index of a specific character in a string.
+7-Write a js program to replace a specific substring in a string.
+8-Write a js program to remove leading and trailing whitespace from a string.
+9-Write a js program to split a string into an array of substrings.
+10-Write a js program to reverse a string.
+
+Numbers:
+
+11-Write a js program to find the sum of two numbers.
+12-Write a js program to find the difference between two numbers.
+13-Write a js program to find the product of two numbers.
+14-Write a js program to find the quotient and remainder of two numbers.
+15-Write a js program to round a number to the nearest integer.
+16-Write a js program to generate a random number between 0 and 1.
+17-Write a js program to find the maximum and minimum of two numbers.
+18-Write a js program to calculate the square root of a number.
+19-Write a js program to calculate the absolute value of a number.
+20-Write a js program to calculate the power of a number.
+
+Date Methods:
+
+21-Write a js program to get the current date and time.
+22-Write a js program to get the current year.
+23-Write a js program to get the current month.
+24-Write a js program to get the current day of the week.
+25-Write a js program to add a specific number of days to a date.
+26-Write a js program to subtract a specific number of days from a date.
+27-Write a js program to get the time in milliseconds.
+28-Write a js program to get the hours, minutes, and seconds from a date object.
+29-Write a js program to create a new date object with a specific year, month, and day.
+30-Write a js program to compare two dates.
+
+
+Math Methods:
+
+31-Write a js program to find the absolute value of a number.
+32-Write a js program to find the highest value in a list of numbers.
+33-Write a js program to find the lowest value in a list of numbers.
+34-Write a js program to round a number up to the nearest integer.
+35-Write a js program to round a number down to the nearest integer.
+36-Write a js program to calculate the exponential value of a number.
+37-Write a js program to calculate the natural logarithm of a number.
+38-Write a js program to calculate the sine of an angle in radians.
+39-Write a js program to calculate the cosine of an angle in radians.
+40-Write a js program to calculate the square root of a number.
+
+
+For loop:
+
+41-Write a program that uses a for loop to print the numbers from 1 to 10.
+42-Write a program that uses a for loop to print the elements of an array.
+43-Write a program that uses a for loop to calculate the factorial of a number.
+44-Write a program that uses a for loop to generate a multiplication table for a given number.
+45-Write a program that uses a for loop to find the sum of all even numbers from 1 to 100.
+
+While Loop:
+
+46-Write a program that asks the user to enter a number and then prints out all the odd numbers up to that number.
+47-Write a program that asks the user to enter a number and then prints out the multiplication table for that number, up to 10.
+48-Write a program that generates a random number between 1 and 100 and asks the user to guess it. The program should keep asking the user for guesses until they get the number.
+49-Write a program that asks the user to enter a word and then prints out the word in reverse order.
+50-Write a program that asks the user to enter a series of numbers and then finds the sum and average of those numbers.
+
+Do-while Loop:
+
+51-Write a program that asks the user to enter a password. Keep asking the user to enter a password until they enter the correct password.
+52-Write a program that asks the user to enter a number and then prints out all the numbers from that number down to 1.
+53-Write a program that generates a random number between 1 and 100 and asks the user to guess it. The program should keep asking the user for guesses until they get the number. At the end of the loop, the program should ask the user if they want to play again.
+54-Write a program that asks the user to enter a series of numbers and then finds the largest number. The program should keep asking the user for numbers until they enter a negative number.
+55-Write a program that asks the user to enter a series of words and then prints out the words in reverse order. The program should keep asking the user for words until they enter the word "stop".
+
+Switch case:
+
+56- Write a js program to print day of week name using switch case.
+57- Write a js program print total number of days in a month using switch case.
+58- Write a js program to check whether an alphabet is vowel or consonant using switch case.
+59- Write a js program to find maximum between two numbers using switch case.
+60- Write a js program to check whether a number is even or odd using switch case.
+61- Write a js program to check whether a number is positive, negative or zero using switch case.
+
+
+Requirements:
+
+1-Please Follow the Obove Instructions
+2-Upload your Code to Google Drive and Github.
+3-Please deploy into surge, vercel and create online link
+
+
